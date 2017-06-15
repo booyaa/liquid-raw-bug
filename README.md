@@ -1,0 +1,1 @@
+test to demonstrate liquid-rs's `raw` tag is reversing the order of the code.
