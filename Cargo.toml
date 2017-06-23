@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["booyaa <booyaabooyaabooyaa@gmail.com>"]
 
 [dependencies]
-liquid = "0.10"
+liquid = { git = "https://github.com/cobalt-org/liquid-rust.git" }
